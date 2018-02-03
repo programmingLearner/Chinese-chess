@@ -6,5 +6,5 @@ Usage:  Download files into your local repository and type 'make' on your termin
 
 Environment:  no special library required.
 
-Algorithm:    AI: Alpha-Beta tree search with evolutionary Monte-Carlo forward-pruning based on my exclusive new-developed probabilty methods. 
+Algorithm:    AI: Alpha-Beta tree search with novel heuristic tree-search methods. 
               Start table: perfix binary search tree
